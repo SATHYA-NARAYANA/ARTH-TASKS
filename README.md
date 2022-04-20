@@ -6,6 +6,10 @@
 ### Index
      
 [TASK 1](https://sathya-k.medium.com/how-big-mncs-stores-and-manipulate-thousands-of-terabytes-of-data-with-high-speed-and-high-accuracy-7c83d002912)
+     How Big MNCs stores and manipulate Thousands of terabytes of data with High-Speed and High-Accuracy
+     
+[TASK 2](https://sathya-k.medium.com/how-big-mncs-stores-and-manipulate-thousands-of-terabytes-of-data-with-high-speed-and-high-accuracy-7c83d002912)
+     AWS case study
 
 
  
