@@ -1,8 +1,7 @@
 # ARTH-TASKS
 
 ### Index
-
-- [Task 1](#How MNC is solving Bigdata Problem)
+> - [TASK 1](https://sathya-k.medium.com/how-big-mncs-stores-and-manipulate-thousands-of-terabytes-of-data-with-high-speed-and-high-accuracy-7c83d002912)
 
 
  
