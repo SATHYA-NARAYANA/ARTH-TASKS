@@ -8,9 +8,11 @@
 #### ARTH 2020
      
 [TASK 1](https://sathya-k.medium.com/how-big-mncs-stores-and-manipulate-thousands-of-terabytes-of-data-with-high-speed-and-high-accuracy-7c83d002912)
+    
     📌 Article on  How Big MNCs stores and manipulate Thousands of terabytes of data with High-Speed and High-Accuracy
      
 [TASK 2](https://www.linkedin.com/pulse/aws-case-study-fuji-television-networks-sathya-narayana-/)
+    
     📌 Article on AWS case study
 
 [TASK 3]( )
