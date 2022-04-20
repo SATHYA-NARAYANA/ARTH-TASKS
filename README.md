@@ -17,6 +17,13 @@
 
 [TASK 3]( )
 
+
+1. Create a key pair 
+2. Create a security group
+3. Launch an instance using the above created key pair and security group
+4. Create an EBS volume of 1 GB
+5. The final step is to attach the above created EBS volume to the instance you created in the previous steps
+
 [TASK 4]( )
 
 [TASK 5]( )
@@ -45,7 +52,16 @@
 
 [TASK 17]( ) 
 
+🔅 Create your own Chat Servers, and establish a network to transfer data using Socket Programing by creating both Server and Clinet machine as Sender and Receiver both. Do this program using UDP data transfer protocol.
+🔅 Use multi-threading concept to get and receive data parallelly from both the Server Sides. Observe the challenges that you face to achieve this using UDP. "
+
 [TASK 18]( ) 
+
+🔅 Create an AWS EC2 instance 
+🔅 Configure the instance with Apache Webserver.
+🔅 Download php application name WordPress.
+🔅 As wordpress stores data at the backend in MySQL Database server. Therefore, you need to setup a MySQL server using AWS RDS service using Free Tier.
+🔅 Provide the endpoint/connection string to the WordPress application to make it work. 
 
 [TASK 19]( ) 
 
@@ -54,6 +70,8 @@
 [TASK 21]( ) 
 
 [TASK 22]( ) 
+
+📌 Article on AWS SQS usecase
 
 [TASK 23]( ) 
 
@@ -68,6 +86,8 @@
 [TASK 28]( ) 
 
 [TASK 29]( ) 
+
+📌 Article on indutrial use cases of Jenkins
 
 [TASK 30]( ) 
 
@@ -92,6 +112,8 @@
 [TASK 40]( ) 
 
 [TASK 41]( ) 
+
+📌  Article on how OSPF (Open Short Path First) Routing Protocol implemented using Dijkastra Algorithm behind the scene
 
 [TASK 42]( ) 
  
