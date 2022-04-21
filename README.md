@@ -124,10 +124,24 @@
 Colons can be used to align columns.
 
 |SL NO          | TITLE         | Progress  |
-| ------------- |:-------------:| -----:|
-| 1      | Big Data | RED |
-| 2      | Ansible      |  RED |
-| 3 | Container      |    RED |
+| ------------- |:-------------:| ---------:|
+| 1             | Big Data      |  RED      |
+| 2             | Ansible       |  RED      |
+| 3             | Terraform     |  RED      |
+| 4             | AWS           |  RED      |
+| 5             | Docker        |  RED      |
+| 6             | Jenkins       |  RED      |
+| 7             | Kubernetes    |  RED      |
+| 8             | Open Shift    |  RED      |
+| 9             | ML            |  RED      |
+| 10            | Shell Script  |  RED      |
+| 11            | Mongo DB      |  RED      |
+| 12            | Flask         |  RED      |
+| 13            |  Open CV      |  RED      |
+| 14            | NLP           |  RED      |
+| 15            | DSA           |  RED      |
+| 16            | Data Science  |  RED      |
+| 17            | Linux         |  RED      |
 
 
  
