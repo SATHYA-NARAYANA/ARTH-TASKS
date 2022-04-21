@@ -148,6 +148,8 @@ Tasks Progress tracks
 | 21            | Quantum       |  RED      |
 | 22            | Grafan        |  RED      |
 | 23            | Promethus     |  RED      |
+| 24            | Flutter       |  RED      |
+| 25            | Docker - Kubernetes Web UI     |  RED      |
 
 
  
