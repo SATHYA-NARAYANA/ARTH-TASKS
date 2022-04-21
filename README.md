@@ -121,7 +121,7 @@
 
 
 
-Colons can be used to align columns.
+Tasks Progress tracks
 
 |SL NO          | TITLE         | Progress  |
 | ------------- |:-------------:| ---------:|
@@ -142,6 +142,12 @@ Colons can be used to align columns.
 | 15            | DSA           |  RED      |
 | 16            | Data Science  |  RED      |
 | 17            | Linux         |  RED      |
+| 18            | AI            |  RED      |
+| 19            | DevOps        |  RED      |
+| 20            | MlOps         |  RED      |
+| 21            | Quantum       |  RED      |
+| 22            | Grafan        |  RED      |
+| 23            | Promethus     |  RED      |
 
 
  
