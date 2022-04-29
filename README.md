@@ -86,7 +86,6 @@
 [TASK 28]( ) 
 
 [TASK 29]( ) 
-
 📌 Article on indutrial use cases of Jenkins
 
 [TASK 30]( ) 
@@ -94,7 +93,6 @@
 [TASK 31]( ) 
 
 [TASK 32](https://sathya-k.medium.com/mongo-db-workshop-learnings-5c5aab59c907) 
-
 📌 Article on indutrial use cases of Mongo Database
 
 [TASK 33]( ) 
@@ -114,12 +112,10 @@
 [TASK 40]( ) 
 
 [TASK 41]( ) 
-
 📌  Article on how OSPF (Open Short Path First) Routing Protocol implemented using Dijkastra Algorithm behind the scene
 
-[TASK 42]( ) 
- 
-📌 Article on k-means clustering and it's Real usecases in the Security Domain
+[TASK 42](https://www.linkedin.com/pulse/clustering-its-use-case-security-area-using-ml-sathya-narayana ) 
+ 📌 Article on k-means clustering and it's Real usecases in the Security Domain
 
 
 
@@ -139,7 +135,7 @@ Tasks Progress tracks
 | 10            | Shell Script  |  RED      |
 | 11            | Mongo DB      |  RED      |
 | 12            | Flask         |  RED      |
-| 13            |  Open CV      |  RED      |
+| 13            | Open CV       |  RED      |
 | 14            | NLP           |  RED      |
 | 15            | DSA           |  RED      |
 | 16            | Data Science  |  RED      |
