@@ -156,22 +156,22 @@ Tasks Progress tracks
 
 Serverless :
 
-[Part 1:] (https://www.linkedin.com/pulse/multiple-usecase-projects-serverless-framework-sathya-narayana/)
+[Part 1:](https://www.linkedin.com/pulse/multiple-usecase-projects-serverless-framework-sathya-narayana/)
 
 Introduction to Serverless 
 
-[Part 2:] ()
+[Part 2:]()
 
 Case Studies to Serverless
 
-[Part 3:]
+[Part 3:]()
 updating...
 
-[Part 4:]
+[Part 4:]()
 
 updating...
 
-[Project of Serveless Architure:]
+[Project of Serveless Architure:]()
 
 updating...
 
