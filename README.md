@@ -93,7 +93,9 @@
 
 [TASK 31]( ) 
 
-[TASK 32]( ) 
+[TASK 32](https://sathya-k.medium.com/mongo-db-workshop-learnings-5c5aab59c907) 
+
+📌 Article on indutrial use cases of Mongo Database
 
 [TASK 33]( ) 
 
