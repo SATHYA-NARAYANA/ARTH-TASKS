@@ -154,4 +154,24 @@ Tasks Progress tracks
 | 25            | Docker - Kubernetes Web UI     |  RED      |
 
 
+Serverless :
+[Part 1:] (https://www.linkedin.com/pulse/multiple-usecase-projects-serverless-framework-sathya-narayana/)
+
+Introduction to Serverless 
+
+[Part 2:] ()
+
+Case Studies to Serverless
+
+[Part 3:]
+updating...
+
+[Part 4:]
+
+updating...
+
+[Project of Serveless Architure:]
+
+updating...
+
  
